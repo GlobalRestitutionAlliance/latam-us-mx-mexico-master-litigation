@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Mexico
+  iso: MX
+  block: 12
+  range: [1046,1140]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "MX-V-1046"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1047"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1048"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1049"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1050"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1051"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1052"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1053"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1054"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1055"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1056"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1057"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1058"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1059"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1060"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1061"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1062"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1063"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1064"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1065"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1066"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1067"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1068"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1069"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1070"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1071"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1072"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1073"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1074"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1075"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1076"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1077"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1078"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1079"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1080"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1081"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1082"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1083"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1084"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1085"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1086"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1087"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1088"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1089"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1090"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1091"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1092"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1093"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1094"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1095"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1096"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1097"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1098"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1099"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1100"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1101"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1102"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1103"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1104"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1105"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1106"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1107"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1108"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1109"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1110"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1111"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1112"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1113"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1114"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1115"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1116"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1117"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1118"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1119"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1120"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1121"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1122"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1123"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1124"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1125"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1126"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1127"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1128"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1129"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1130"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1131"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1132"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1133"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1134"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1135"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1136"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1137"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1138"
+      anchor: "1846-1848 war and territorial loss (Treaty of Guadalupe Hidalgo, public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1139"
+      anchor: "Bracero program and labor exploitation concerns (historical public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "MX-V-1140"
+      anchor: "Drug war/security cooperation and human rights impacts (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
