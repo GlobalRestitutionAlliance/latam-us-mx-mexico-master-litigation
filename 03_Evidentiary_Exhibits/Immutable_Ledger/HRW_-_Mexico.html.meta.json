@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/americas/mexico",
+  "final_url": "https://www.hrw.org/americas/mexico",
+  "title": "HRW - Mexico",
+  "fetched_at": "2026-11-23T14:28:13.243907Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 207937,
+  "sha256": "0f29199617611fb020e4efa8a7a433f1053fdea927da1fc4bdf1fe7b0ad831cc",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

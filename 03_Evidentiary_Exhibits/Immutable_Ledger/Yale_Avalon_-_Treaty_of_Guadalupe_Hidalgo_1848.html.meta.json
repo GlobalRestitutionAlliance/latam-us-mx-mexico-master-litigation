@@ -1,0 +1,17 @@
+{
+  "url": "https://avalon.law.yale.edu/19th_century/guadhida.asp",
+  "final_url": "https://avalon.law.yale.edu/19th_century/guadhida.asp",
+  "title": "Yale Avalon - Treaty of Guadalupe Hidalgo 1848",
+  "fetched_at": "2026-11-23T14:28:11.881281Z",
+  "http_status": 200,
+  "content_type": "text/html",
+  "bytes": 43157,
+  "sha256": "2be2d96080a92a236a3a32d4381698c00991a836861e4498fedf0ee885592b8f",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
